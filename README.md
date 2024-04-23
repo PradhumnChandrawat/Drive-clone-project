@@ -28,8 +28,6 @@ To get a local copy up and running follow these simple steps.
   ```sh
   npm install npm@latest -g
 
-## git clone https://github.com/PradhumnChandrawat/Google-Drive-Clone-Geekster.git
-
 ## npm install
 
 ## Usage
@@ -50,7 +48,7 @@ Open a Pull Request
 ## Contact
 Your Name - chandrawatpradhumn@gmail.com
 
-## Project Link: https://drive-clone-39e39.firebaseapp.com/
+## Project Link: https://drive-clone-project.vercel.app/
 
 ## Acknowledgements
 React js
